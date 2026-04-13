@@ -1,0 +1,6 @@
+box_blur.exe
+output_*.jpg
+*.obj
+*.pdb
+*.exp
+*.lib
